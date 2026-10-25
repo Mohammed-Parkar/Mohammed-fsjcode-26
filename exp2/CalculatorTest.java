@@ -1,9 +1,10 @@
 /*
- * Aim:Programs on method and constructor overloading.
+ * Aim: WAP to store and display information of a few students.
+ *      Information includes Name, UIN, and CGPA.
  *
- * Coder: Deshmukh Sadat
+ * Coder: Mohammed Parkar
  * Class: Computer Engineering - A Division
- * UIN/Roll No: 251P056 / 10
+ * UIN/Roll No: 251P043 / 37
  */
 
 import java.util.Scanner;
