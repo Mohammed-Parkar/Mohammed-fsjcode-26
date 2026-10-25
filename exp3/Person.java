@@ -4,8 +4,8 @@ package EXP3;
 // Person, Employee, and Manager. Accept the manager's details and display them. Handle
 // invalid salary input using exception handling.
 
-// Name: Deshmukh Sadat Anwar Ahmad
-// UIN/Roll No: 251P056/10
+// Name: Mohammed Parkar
+// UIN/Roll No: 251P056/37
 // Div : A 
 
 public class Person {
