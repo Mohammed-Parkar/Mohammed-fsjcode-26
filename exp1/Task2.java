@@ -2,9 +2,9 @@
  * Aim: WAP to store and display bank account details for users.
  *      Information includes Name, Account Number, Balance, and Account Type.
  *
- * Coder: Deshmukh Sadat
+ * Coder: Mohammed Parkar
  * Class: Computer Engineering - A Division
- * UIN/Roll No: 251P056 / 10
+ * UIN/Roll No: 251P043 / 37
  */
 
 public class Task2 {
